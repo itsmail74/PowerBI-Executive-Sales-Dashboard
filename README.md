@@ -14,16 +14,15 @@ This Power BI project delivers a high-level strategic overview of sales performa
 
 ### 1. Global Performance (Executive Overview)
 *Instant health check of the business against defined targets.*
-![Page 1 Overview](Asset/page1.png)
-*(Make sure the filename matches exactly what you uploaded in the Assets folder)*
+![Page 1 Overview](Asset/page_1.png)
 
 ### 2. Product & Profitability Analysis
 *Deep dive into the product portfolio to identify "Cash Cows".*
-![Page 2 Product](Asset/page2.png)
+![Page 2 Product](Asset/page_2.png)
 
 ### 3. Customer & Regional Analysis
 *Understanding "Who" is buying and "Where".*
-![Page 3 Customer](Asset/page3.png)
+![Page 3 Customer](Asset/page_3.png)
 
 ---
 

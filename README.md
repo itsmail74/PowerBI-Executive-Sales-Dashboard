@@ -6,7 +6,7 @@
 ## 📝 Project Overview
 This Power BI project delivers a high-level strategic overview of sales performance, profitability, and customer behavior. It transforms raw sales data into actionable insights using advanced DAX calculations, dynamic targeting, and interactive visualizations.
 
-**Check out the live report here:** [Link to your Web Publish if you have one]
+**Check out the live report here:** [https://app.powerbi.com/reportEmbed?reportId=74f839ab-258b-41ee-ae45-bfb4113833eb&autoAuth=true&ctid=eadede1d-5a71-47a5-be6e-3ed9b1b3863e]
 
 ---
 
@@ -14,16 +14,16 @@ This Power BI project delivers a high-level strategic overview of sales performa
 
 ### 1. Global Performance (Executive Overview)
 *Instant health check of the business against defined targets.*
-![Page 1 Overview](Assets/page1_overview.png)
+![Page 1 Overview](Asset/page1.png)
 *(Make sure the filename matches exactly what you uploaded in the Assets folder)*
 
 ### 2. Product & Profitability Analysis
 *Deep dive into the product portfolio to identify "Cash Cows".*
-![Page 2 Product](Assets/page2_product.png)
+![Page 2 Product](Asset/page2.png)
 
 ### 3. Customer & Regional Analysis
 *Understanding "Who" is buying and "Where".*
-![Page 3 Customer](Assets/page3_customer.png)
+![Page 3 Customer](Asset/page3.png)
 
 ---
 
